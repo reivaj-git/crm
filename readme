@@ -1,0 +1,2 @@
+## Asegurate de tener npm i json-server
+## Ejecuta  json-server --watch db.json para el correcto funcionamiento

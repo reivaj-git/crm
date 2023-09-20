@@ -1,0 +1,42 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ricardo",
+      "empresa": "XoloCodigo",
+      "email": "equipo@xolocodigo.com",
+      "telefono": "444 222 1111",
+      "notas": "Nueva Nota",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Codigo Con Juan",
+      "email": "karen@xolocodigo.com",
+      "telefono": "138198313",
+      "notas": "Karen desea una REST API",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@xolocodigo.com",
+      "empresa": "xolo codigo"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@xolocodigo.com",
+      "empresa": "xolo codigo"
+    },
+    {
+      "nombre": "Juan Desde React",
+      "empresa": "xolocodigo2",
+      "email": "juan@xolocodigo.com",
+      "telefono": "10901",
+      "notas": "El Cliente desea un ecommerce",
+      "id": 6
+    }
+  ]
+}
